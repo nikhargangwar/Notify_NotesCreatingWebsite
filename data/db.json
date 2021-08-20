@@ -1,0 +1,70 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "ninja academy",
+      "details": "sd,mfmw dfwegm.",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "sdf",
+      "details": "dsf",
+      "category": "game",
+      "id": 5
+    },
+    {
+      "title": "sdf",
+      "details": "dsf",
+      "category": "game",
+      "id": 6
+    },
+    {
+      "title": "innovation worl",
+      "details": "h wefk nkwefj",
+      "category": "money",
+      "id": 7
+    },
+    {
+      "title": "laptop",
+      "details": "is the best in this world full of opportunities",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "astha singh",
+      "details": "pagal hai",
+      "category": "play",
+      "id": 9
+    },
+    {
+      "title": "My Day ",
+      "details": "is the best day of all the day. no worries only chill.",
+      "category": "play",
+      "id": 10
+    },
+    {
+      "title": "App Makking in the process ",
+      "details": "Existing solutions like React wrapped DeSandro Masonry, while popular, don't actually leverage React's highly optimized Virtual DOM renderer and in DeSandro Masonry's case, actually renders elements twice before showing the layout. All of this is ok but we found it to lead to a slow, \"laggy\" user experience that would occasionally miss-render our layout.",
+      "category": "todos",
+      "id": 11
+    }
+  ]
+}

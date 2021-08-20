@@ -5,6 +5,7 @@
 
 Command to install Json server - npm install -g json-server   
 Command to start json server -> json-server --watch data/db.json --port 8000 
+
 Command to start react application -> npm start
 ### Starter Project for the Material UI playlist
 

@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/62029765/132938940-1b5f353b-2adb-4fd0-9174-38b7ab3fcd25.png)
+
+
 ### Project Demo Video - https://youtu.be/IKfxIgp1ODA
 
 ### Notify Website - To write and store your everyday notes
